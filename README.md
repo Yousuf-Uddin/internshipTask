@@ -5,17 +5,20 @@ related to property management.
 Application Demo:
 
 HomePage:
-![Tool](https://github.com/Yousuf-Uddin/)
+![Tool](https://github.com/Yousuf-Uddin/internshipTask/blob/main/src/assets/1.png)
 
 Add Item:
-![Tool](https://github.com/Yousuf-Uddin/)
+![Tool](https://github.com/Yousuf-Uddin/internshipTask/blob/main/src/assets/2.png)
 
 Show Items:
-![Tool](https://github.com/Yousuf-Uddin/)
+![Tool](https://github.com/Yousuf-Uddin/internshipTask/blob/main/src/assets/3.png)
+
+Enquiry Mail:
+![Tool](https://github.com/Yousuf-Uddin/internshipTask/blob/main/src/assets/4.png)
 
 Summary:
 - Developed the front-end using React, creating a responsive and intuitive user interface.
-- Utilized MongoDB to store and retrieve Properties, ensuring fast and reliable access.
+- Utilized MongoDB to store and retrieve items, ensuring fast and reliable access.
 - Added functionality for users to perform CRUD operations on the Data.
 
 
