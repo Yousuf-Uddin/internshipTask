@@ -1,12 +1,46 @@
-# React + Vite
+# Items Inventory App
+A simple application to manage and track Items in Inventory.
+related to property management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application Demo:
 
-Currently, two official plugins are available:
+HomePage:
+![Tool](https://github.com/Yousuf-Uddin/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add Item:
+![Tool](https://github.com/Yousuf-Uddin/)
 
-## Expanding the ESLint configuration
+Show Items:
+![Tool](https://github.com/Yousuf-Uddin/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Summary:
+- Developed the front-end using React, creating a responsive and intuitive user interface.
+- Utilized MongoDB to store and retrieve Properties, ensuring fast and reliable access.
+- Added functionality for users to perform CRUD operations on the Data.
+
+
+## Prerequisites
+
+Before you begin, ensure that you have the following installed:
+
+- [VS Code](https://code.visualstudio.com/) (latest version recommended)
+- [Node.js](https://nodejs.org/) or any other required runtime (version X.X.X or higher)
+- Git (optional, if cloning from a repository)
+- Any other dependencies specific to your application (e.g., Python, Docker, etc.)
+
+## Setup Instructions
+1. Clone the Repository:-
+use the following command to clone the repositiory:-
+--bash git clone https://github.com/your-username/https://github.com/Yousuf-Uddin/internshipTask.git
+--cd [repo-folder]
+3. Open the Project in VS Code:-
+code .
+4. Install Dependencies:-
+npm install
+5. Configure Environment Variable in ".env" file:-
+DB_URL=your_MongoDB_url
+6. Run the Application:-
+a) Run Backend Server: Terminal-->cd backend-->node index.js
+b) Run FrontEnd server: Terminal-->npm run dev.
+8. Access the Application:-
+Typically, it will run on: "http://localhost:5173"
