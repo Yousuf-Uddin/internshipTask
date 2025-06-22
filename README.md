@@ -31,7 +31,7 @@ Before you begin, ensure that you have the following installed:
 ## Setup Instructions
 1. Clone the Repository:-
 use the following command to clone the repositiory:-
---bash git clone https://github.com/your-username/https://github.com/Yousuf-Uddin/internshipTask.git
+--bash git clone https://github.com/Yousuf-Uddin/internshipTask.git
 --cd [repo-folder]
 3. Open the Project in VS Code:-
 code .
